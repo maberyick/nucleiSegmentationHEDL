@@ -15,7 +15,7 @@ pip install -r requirement.txt
 Model checkpoint is save in model folder. To run the nuclei pixel prediction, simply run
 
 ```python
-[ython main_PredviaTrainGenerator.py
+python main_PredviaTrainGenerator.py
 ```
 
 The input image for nuclei pixel prediction should be put into data folder. Different image format handling wrappers were also provided by main_PredviaTrainGenerator_IMAGEEXTENSION.py, change the IMAGEEXTENSION with the provided extension names and place the corresponding images into data folder.
