@@ -6,9 +6,9 @@ Nuclei segmentation performed on the digitized H&amp;E-stained images of whole s
 - NVIDIA GPU (Tested on Nvidia TianX 1080 x 12 on local workstations)
 - Python (3.5+), matplotlib (3.1.1), numpy (1.17.3), opencv-python (4.1.1.26), pillow (6.2.1), PyTorch (1.5+), scikit-learn (0.22.1), scipy (1.3.1), torchvision (0.4.2), tensorboardx (optional)
 
-All directly running
+All directly running to automatically install all depending libraries.
 ```bash
-pip install -r requirement.txt to automatically install all depending libraries.
+pip install -r requirement.txt 
 ```
 
 ## How to run
